@@ -12,6 +12,7 @@ public class Character {
 	Spell spell;
 	int speed;
 	int strength;
+	ArrayList<int> stats;
 	
 	public Character(){
 		skill = null;

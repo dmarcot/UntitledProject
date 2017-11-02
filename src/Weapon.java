@@ -11,7 +11,6 @@ public class Weapon {
 	int attack;
 	int speed;
 	
-	
 	public Weapon(){
 		name = null;
 		attack = 0;
